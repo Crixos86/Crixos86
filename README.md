@@ -1,4 +1,12 @@
-## Hi there 👋
+
+### 👋 Hi there!
+
+I'm Dominik, a enthusiastic Java and JavaScript developer. <br> Let's stay in touch and connect on [LinkedIn](https://www.linkedin.com/in/dominik-veith-32b19415b/).
+
+#### 💻 Passionate about coding and technology
+#### 🎓 Studied Applied Computer Science
+#### ☕ Java | 🌐 JavaScript Enthusiast
+#### 🌳 Nature and my 🐶
 
 <!--
 **Crixos86/Crixos86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
